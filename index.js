@@ -2,6 +2,7 @@
 class NodeChildProcessTemplateParser {
 
   parse(file, model) {
+    return '';
   }
 
 }

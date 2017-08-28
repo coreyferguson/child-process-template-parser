@@ -10,7 +10,8 @@
     "sinon-chai": "^2.13.0"
   },
   "scripts": {
-    "test": "./node_modules/.bin/mocha test/spec/**/*.js"
+    "test": "./node_modules/.bin/mocha test/spec/**/*.js",
+    "watch": "npm run test -- --watch"
   },
   "repository": {
     "type": "git",
