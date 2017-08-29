@@ -11,9 +11,9 @@ class NodeChildProcessTemplateParser {
       .map(line => line.trim())
       .filter(line => line !== '')
       .filter(line => !line.startsWith('//'));
-    const cmd = lines[0];
+    const command = lines[0];
     const args = lines.slice(1);
-    return { cmd, args };
+    return { command, args };
   }
 
 }
