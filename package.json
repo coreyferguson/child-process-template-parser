@@ -1,5 +1,5 @@
 {
-  "name": "node-child-process-template-parser",
+  "name": "child-process-template-parser",
   "version": "1.0.0",
   "description": "Parse templates for Node.js ChildProcess consumption",
   "main": "index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coreyferguson/node-child-process-template-parser.git"
+    "url": "git+https://github.com/coreyferguson/child-process-template-parser.git"
   },
   "keywords": [
     "node",
@@ -28,7 +28,7 @@
   "author": "Corey Ferguson <corey.t.ferguson@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/coreyferguson/node-child-process-template-parser/issues"
+    "url": "https://github.com/coreyferguson/child-process-template-parser/issues"
   },
-  "homepage": "https://github.com/coreyferguson/node-child-process-template-parser#readme"
+  "homepage": "https://github.com/coreyferguson/child-process-template-parser#readme"
 }
